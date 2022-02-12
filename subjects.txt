@@ -1,4 +1,9 @@
 moralscience
 generalknowledge
 drawing
+<<<<<<< HEAD
 fastforward deleting
+=======
+fastforward-- checking
+testing 3 way merge
+>>>>>>> b9d2e6e8af74372570103f26e4482d0d46113b14
